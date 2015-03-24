@@ -32,7 +32,7 @@
 		"php": 											">=5.3.0",
 		
 		"johnpbloch/wordpress": 								"dev-master",
-		"humanmade/mercator":								"dev-fix-multinetwork-domain-mapping",
+		"humanmade/mercator":								"dev-master",
 
 		"wpackagist-plugin/wordpress-seo": 						"1.*",
 		"wpackagist-plugin/wp-mail-smtp": 						"0.9.5",
