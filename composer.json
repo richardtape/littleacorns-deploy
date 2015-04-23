@@ -35,7 +35,7 @@
 		"johnpbloch/wordpress": 								"dev-master",
 		"humanmade/mercator":								"dev-master",
 
-		"wpackagist-plugin/wordpress-seo": 						"1.*",
+		"wpackagist-plugin/wordpress-seo": 						"2.*",
 		"wpackagist-plugin/wp-mail-smtp": 						"0.9.5",
 		"wpackagist-plugin/google-analytics-for-wordpress": 			"5.*",
 		"wpackagist-plugin/wp-rainbow-hilite":						"dev-trunk",
